@@ -1,0 +1,13 @@
+body{
+    color: #6f2c44;
+    background-color: #ffb6c8;
+    font-family: arial;
+    font-size: 24px;
+    text-align: center;
+}
+img{
+    width: 580px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 50%;
+}
